@@ -20,7 +20,7 @@ body{
 .wrapper{
   width: 440px;
   padding: 30px 30px 38px;
-  background: #fff;
+  background: #ff1200de;
   border-radius: 10px;
   flex-direction: column;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
